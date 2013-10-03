@@ -1,0 +1,2 @@
+{"ts":1380825175540,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1380825184973,"patch":[[{"diffs":[[1,".bundle\ndb/*.sqlite3*\nlog/*.log\n*.log\ntmp/**/*\ntmp/*\ndoc/api\ndoc/app\n*.swp\n*˜\n.DS_Store"]],"start1":0,"start2":0,"length1":0,"length2":87}]],"length":87,"saved":false}
