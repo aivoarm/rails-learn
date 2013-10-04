@@ -1,0 +1,1 @@
+{"ts":1380895843048,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"require 'test_helper'\n\nclass PagesHelperTest < ActionView::TestCase\nend\n"]],"start1":0,"start2":0,"length1":0,"length2":72}]],"length":72}

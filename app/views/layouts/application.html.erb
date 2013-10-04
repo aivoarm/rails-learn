@@ -1,12 +1,33 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>RailsLearn</title>
-  <%= stylesheet_link_tag    "application", :media => "all" %>
+  <title><%= title %></title>
+  <%= stylesheet_link_tag "application", :media => "all" %>
+  <%= stylesheet_link_tag css, :media => "all" %>
   <%= javascript_include_tag "application" %>
+  
+  <%= stylesheet_link_tag bootstrap[0], :media => "all"%>
+  <%= stylesheet_link_tag bootstrap[1], :media => "all"%>
+  
+  <%= javascript_include_tag bootstrap[2] %>
   <%= csrf_meta_tags %>
 </head>
 <body>
+
+<div class="page-header">
+  <h1><%= 
+  
+  if @title.nil? # Boolean test for nil
+        @title  # String interpolation
+    else
+        b_title # Implicit return
+    end
+    
+  %> <small><%= title %></small></h1>
+</div>
+
+
+
 
 <%= yield %>
 

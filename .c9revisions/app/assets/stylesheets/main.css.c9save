@@ -1,0 +1,4 @@
+{"ts":1380898463018,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1380898552211,"patch":[[{"diffs":[[1,"body{\n    \n background-color:blue;   \n}"]],"start1":0,"start2":0,"length1":0,"length2":39}]],"length":39,"saved":false}
+{"ts":1380898734278,"patch":[[{"diffs":[[0,"lor:"],[-1,"blue"],[1,"#ccc"],[0,";   "]],"start1":25,"start2":25,"length1":12,"length2":12}]],"length":39,"saved":false}
+{"ts":1380899362745,"patch":[[{"diffs":[[-1,"body"],[1,"header"],[0,"{\n  "]],"start1":0,"start2":0,"length1":8,"length2":10}]],"length":41,"saved":false}
